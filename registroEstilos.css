@@ -1,0 +1,19 @@
+h1{
+    font: size 30px;
+    color:purple;
+    text-align:center;
+}
+
+body{
+    background-color:cyan;
+}
+
+
+.consentimiento{
+    font-size: 18px;
+    color: red;
+}
+
+footer{
+    background-color: purple;
+}
